@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
   <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
-  <remote fetch="https://github.com/morannlx" name="origin"/>
+  <remote fetch="https://github.com/qiulai22" name="origin"/>
   <project remote="origin" name="realme_GT6-AndroidV-common-source" path="kernel_platform/common" revision="realme/sm8650_v_15.0.0_GT_6">
     <linkfile dest="kernel_platform/.source_date_epoch_dir" src="."/>
   </project>
